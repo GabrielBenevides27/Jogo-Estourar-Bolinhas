@@ -1,0 +1,7 @@
+.bolinha{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: rgb(11, 20, 120);
+}
